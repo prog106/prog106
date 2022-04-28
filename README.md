@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+드림코딩 리파지토리 ⇢  https://github.com/dream-ellie
+깃허브 리드미 문서  ⇢ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+뱃지 만들기  ⇢ https://shields.io
+보너스 선물 🎁  ⇢ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
